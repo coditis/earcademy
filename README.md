@@ -5,4 +5,6 @@ The core concept of the app is similar to Anki. It shows you "cards" right when 
 
 ## Progress
 
+.
+
 You can follow process of development (To-do list, Bugfixes, etc) here: [Trello Board](https://trello.com/b/w7BcG64J/mvp)
